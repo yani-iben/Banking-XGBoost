@@ -73,7 +73,5 @@ At the end of the analysis, a **feature importance plot** is included to visuali
 
 ---
 
-## 📬 Contact
 
-For questions or collaboration inquiries, feel free to reach out or open an issue.
 
